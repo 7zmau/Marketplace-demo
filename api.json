@@ -1,0 +1,10 @@
+[
+    {"id": "371d4add-89c3-4abe-b585-11e4fc07b3b7", "name": "Apples", "category": "Fruit", "image": "apple.jpg" },
+    {"id": "0f75f11b-4e8f-41da-8f58-9371b116a3c4", "name": "Bananas", "category": "Fruit", "image": "banana.png" },
+    {"id": "ef26fbc7-51ca-4eae-8bb1-f03f1246e589", "name": "Carrots", "category": "Vegetables", "image": "carrot.png" },
+    {"id": "5b6dcf5e-5db0-4c9e-97a2-5acfe701a301", "name": "Lettuce", "category": "Vegetables", "image": "lettuce.jpg" },
+    {"id": "dd02f642-ceb4-4709-817e-f7d8fa382b38", "name": "Milk", "category": "Dairy", "image": "milk.jpg" },
+    {"id": "628591fc-8cb8-4709-b446-b5fb6d41949d", "name": "Cheese", "category": "Dairy", "image": "cheese.png" },
+    {"id": "2c2c345f-6b90-4ff8-ae97-25c7a0426410", "name": "Bread", "category": "Bakery", "image": "bread.png" },
+    {"id": "1cd7fb34-0420-4638-9953-67bebbf70998", "name": "Croissants", "category": "Bakery", "image": "croissant.png" }
+]
