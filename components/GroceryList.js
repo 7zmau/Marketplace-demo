@@ -4,6 +4,7 @@ import _ from 'lodash';
 import GroceryItem from './GroceryItem';
 
 const GroceryList = ({ groceryProducts }) => {
+  // Group the products by category
   const groupedGroceryProducts = _.groupBy(groceryProducts, 'category');
 
   const GroceryItems = ({product}) => (

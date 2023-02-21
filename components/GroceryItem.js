@@ -3,11 +3,9 @@ import { Text, View, StyleSheet, Image } from 'react-native';
 
 const GroceryItem = ({ name, category, imageUri }) => {
 
-  const image = require(imageUri)
-
   return (
     <View style={styles.item}>
-      <Image source={image} style={styles.image} />
+      <Image source={imageUri} style={styles.image} />
       <Text style={styles.name}>{name}</Text>
     </View>
   );
